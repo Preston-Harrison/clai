@@ -29,7 +29,7 @@ dotnet build && mv ./bin/Debug/net8.0/CLAI ./clai
 ### Example
 
 ```sh
-clai -l csharp -f Program.cs "How do I read a file in C#?"
+clai -l csharp -f Program.cs "Write an interface for my Entity class."
 ```
 
 ### Options
